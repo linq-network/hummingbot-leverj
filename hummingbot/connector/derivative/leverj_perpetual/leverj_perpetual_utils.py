@@ -7,7 +7,7 @@ from hummingbot.client.config.config_methods import using_exchange
 CENTRALIZED = True
 
 
-EXAMPLE_PAIR = "BTC-USD"
+EXAMPLE_PAIR = "BTC-USDT"
 
 
 DEFAULT_FEES = [0.04, 0.02]
@@ -28,7 +28,7 @@ KEYS = {
                   is_connect_key=True),
     "leverj_perpetual_account_number":
         ConfigVar(key="leverj_perpetual_account_number",
-                  prompt="Enter your leverj Perpetual API account_number >>> ",
+                  prompt="Enter your leverj Perpetual API account Id >>> ",
                   required_if=using_exchange("leverj_perpetual"),
                   is_secure=True,
                   is_connect_key=True),

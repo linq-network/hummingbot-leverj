@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-informational.svg)](https://github.com/CoinAlpha/hummingbot/blob/master/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hummingbot_io.svg?style=social&label=hummingbot)](https://twitter.com/hummingbot_io)
 
+This is a fork of hummigbot with an additional leverj.io perpetual connector. A built docker image can be found at https://hub.docker.com/r/tokamaktech/hummingbot-leverj. Original Humminbot documentation follows below.
+
 Hummingbot is an open-source project that integrates cryptocurrency trading on both **centralized exchanges** and **decentralized protocols**. It allows users to run a client that executes customized, automated trading strategies for cryptocurrencies.
 
 We created hummingbot to promote **decentralized market-making**: enabling members of the community to contribute to the liquidity and trading efficiency in cryptocurrency markets.

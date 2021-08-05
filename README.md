@@ -57,7 +57,7 @@ We created hummingbot to promote **decentralized market-making**: enabling membe
 |<img src="assets/dolomite-logo.jpg" alt="Dolomite" width="90" />| dolomite | [Dolomite](https://dolomite.io/) | 1 | [API](https://docs.dolomite.io/) | [corey@dolomite.io](mailto:corey@dolomite.io) | ![RED](https://via.placeholder.com/15/f03c15/?text=+) |
 | <img src="assets/radar_logo.png" alt="Radar Relay" width="90" height="30" /> | radar_relay | [Radar Relay](https://radarrelay.com/) | 2 | [API](https://developers.radarrelay.com/api/trade-api) | | ![unavailable](https://via.placeholder.com/15/f03c15/?text=+) |
 | <img src="assets/loopring-logo.jpg" alt="Loopring" width="90" /> | loopring | [Loopring](https://loopring.io/) | 3 | [API](https://docs3.loopring.io/en/) | | ![YELLOW](https://via.placeholder.com/15/ffff00/?text=+) |
-
+| <img src="assets/leverj-logo.jpg" alt="Leverj" width="90" /> | leverj | [Leverj](https://leverj.io/) | 1 | [API](https://leverj.github.io/api) | | ![YELLOW](https://via.placeholder.com/15/ffff00/?text=+) |
 
 ## Supported protocol exchanges
 | logo | id | name | ver | doc| status |
